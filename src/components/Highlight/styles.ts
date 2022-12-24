@@ -23,7 +23,7 @@ export const Subtitle = styled.Text`
 
     ${({ theme }) => css`
     
-        font-size: ${theme.FONT_SIZE.XL}px;
+        font-size: ${theme.FONT_SIZE.MD}px;
         font-family: ${theme.FONT_FAMILY.REGULAR};
         color: ${theme.COLORS.GRAY_300};
     `
